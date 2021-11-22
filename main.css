@@ -1,8 +1,8 @@
 @charset "UTF-8";
 .container{
-  width:1020px;
+  width:1010px;
   margin:0 auto;
-  background-color: lightblue;
+  background-color:rgb(255, 198, 0);
 }
 h1{
   width:100%;
@@ -16,7 +16,7 @@ h1{
     align-items: stretch;
 }
 .flex-container div{
-  background-color: pink;
+  background-color: white;
   height:150px;
   flex-grow: 4;
 }
@@ -25,7 +25,6 @@ h1{
   flex-grow: 1;
   flex-direction: column;
 }
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hTPDr3BnHqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 footer {
   width:100%
